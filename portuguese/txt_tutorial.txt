@@ -1,5 +1,5 @@
 #tuto_launch_1
-Welcome to Ymir! It looks like it's the first time you're launching this game. 
+Bem-vindo ao Ymir! Parece que é a sua primeira vez que você está jogando este jogo.
 
 #tuto_launch_2
 This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
