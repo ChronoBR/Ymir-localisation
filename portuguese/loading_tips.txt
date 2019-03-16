@@ -1,28 +1,28 @@
-Esse jogo foi feito para ser complexo e difÌcil.
-Quaisquer similaridades para com outra espÈcie s„o puramente fortuitas e n„o intencionais.
-A economia nunca È est·vel. Tudo est· sempre flutuando, e isso È resultado de uma simulaÁ„o din‚mica, onde muitas coisas influenciam outras, reciprocamente. N„o se preocupe se vocÍ n„o conseguir tornar tudo imÛvel e invari·vel.
-Se a renda de um porco representa 3% da renda total de sua regi„o, sua riqueza ser· 3% da riqueza total da regi„o.
-A renda de uma classe social È dividida igualmente entre todos os porcos pertencentes a mesma. A receita individual de um porco È, portanto, um valor mÈdio baseado na renda total de sua classe social.
-O preÁo de mercado de recursos raros tender„o a corresponder ‡ riqueza de suas classes mais abastadas, enquanto produtos abundantes tender„o a corresponder a riqueza dos comuns.
-Um porco com 2 de riqueza poder· satisfazer totalmente suas necesssidades de qualquer recursos custando 2 moedas ou menos.
+Esse jogo foi feito para ser complexo e dif√≠cil.
+Quaisquer similaridades para com outra esp√©cie s√£o puramente fortuitas e n√£o intencionais.
+A economia nunca √© est√°vel. Tudo est√° sempre flutuando, e isso √© resultado de uma simula√ß√£o din√¢mica, onde muitas coisas influenciam outras, reciprocamente. N√£o se preocupe se voc√™ n√£o conseguir tornar tudo im√≥vel e invari√°vel.
+Se a renda de um porco representa 3% da renda total de sua regi√£o, sua riqueza ser√° 3% da riqueza total da regi√£o.
+A renda de uma classe social √© dividida igualmente entre todos os porcos pertencentes a mesma. A receita individual de um porco √©, portanto, um valor m√©dio baseado na renda total de sua classe social.
+O pre√ßo de mercado de recursos raros tender√£o a corresponder √† riqueza de suas classes mais abastadas, enquanto produtos abundantes tender√£o a corresponder a riqueza dos comuns.
+Um porco com 2 de riqueza poder√° satisfazer totalmente suas necesssidades de qualquer recursos custando 2 moedas ou menos.
 Se um recurso custa 4 moedas, um porco com a riqueza de 1 pode satisfazer apenas 25% de suas necessidades por tal recurso.
 A riqueza de um porco define seu poder de compra, como os recursos que ele consegue comprar para satisfazer suas necessidades.
-Riqueza È a unidade de valor objetiva. Ela È definida pelo tempo gasto por um Porco trabalhando em qualquer coisa, independentemente do valor subjetivo (preÁo em moedas) que sua sociedade d· ao que faz.
-A rizqueza, como uma unidade universal de referÍncia de valor, È igual em todas as regiıes e para todos os jogadores.
-Cada Porco gastando tempo trabalhando em algo produz Riqueza proporcionalmente ‡ quantidade de trabalho feito.
-Um Porco trabalhando em um lugar de trabalho com o dobro de eficiÍncia em relaÁ„o a outro ir· produzir o dobro de trabalho por dia, e, por isso, o dobro de riqueza.
-O tipo ou preÁo dos produtos n„o tem efeito na Riqueza. Aqueles s„o relativos ‡ sociedade, enquanto riqueza È uma unidade objetiva universal que representa o tempo gasto trabalhando em qualquer coisa.
-Se um Porco ganha 10 moedas de 1000 circulando (soma de renda da regi„o) mas ent„o as coisas mudam e de repente h· 2000 circulando, È como se ele tivesse perdido metade do real valor de suas moedas, e metade do percentual da riqueza total da regi„o que tinha a partir de suas 10 moedas.
-O dinheiro representa o direito de uma parte do valor real, e n„o possuem necessariamente valor ele mesmo. Em Ymir "o valor objetivo real" È a unidade de "Riqueza", representada pelo dinheiro na unidade de "Moedas".
-Se a soma da riqueza total de uma regi„o fosse uma torta, cada moeda daria a um Porco o direito de um pedado da comida. O tamanho do pedaÁo dependeria de quantas moedas est„o circulando (a soma de toda a renda da regi„o).
-A soma de toda a renda de uma regi„o representa o total de moedas circulando e, com isso, o valor objetivo (riqueza) que cada moeda representa.
-Em Ymir, para simplificar e evitar a complicaÁ„o de moedas correntes relativas, a quantidade de moedas em circulaÁ„o È automaticamente a soma de todas as rendas. Assim, o valor prÛprio (Riqueza) de cada moeda tambÈm flutua autmaticamente, ao sabor da quantidade total de receitas.
-VocÍ pode acessar os recursos de locais de estocagem sem trabalhadores, mas os locais n„o poder„o receber nenhum novo recurso.
-Qualquer recurso distribuido e disponibilizado para a populaÁ„o (seja pelos mercadores, produtores ou outros) s„o perdidos, sendo vendidos ou n„o.
-O preÁo de um recurso ser· sempre, no mÌnimo, uma moeda acima de seu custo de produÁ„o, para garantir um lucro mÌnimo para seus produtores.
-Se uma industria produz algo muito valorizado, os produtores dos materiais de base ir„o cobiÁar a receita de tal ind˙stria e aumentar o preÁo de seus insumos.
-Cada projeto possui um n˙mero otimizado de pesquisadores. AlÈm desse n˙mero, qualquer pesquisador extra ir· adicionar uma reduzida contribuiÁ„o para o projeto.
-Em um projeto, cada pesquisador contribui "pontos de pesquisa" baseados em suas respectivas inteligÍncias.
+Riqueza √© a unidade de valor objetiva. Ela √© definida pelo tempo gasto por um Porco trabalhando em qualquer coisa, independentemente do valor subjetivo (pre√ßo em moedas) que sua sociedade d√° ao que faz.
+A riqueza, como uma unidade universal de refer√™ncia de valor, √© igual em todas as regi√µes e para todos os jogadores.
+Cada Porco gastando tempo trabalhando em algo produz Riqueza proporcionalmente √† quantidade de trabalho feito.
+Um Porco trabalhando em um lugar de trabalho com o dobro de efici√™ncia em rela√ß√£o a outro ir√° produzir o dobro de trabalho por dia, e, por isso, o dobro de riqueza.
+O tipo ou pre√ßo dos produtos n√£o tem efeito na Riqueza. Aqueles s√£o relativos √† sociedade, enquanto riqueza √© uma unidade objetiva universal que representa o tempo gasto trabalhando em qualquer coisa.
+Se um Porco ganha 10 moedas de 1000 circulando (soma de renda da regi√£o) mas ent√£o as coisas mudam e de repente h√° 2000 circulando, √© como se ele tivesse perdido metade do real valor de suas moedas, e metade do percentual da riqueza total da regi√£o que tinha a partir de suas 10 moedas.
+O dinheiro representa o direito de uma parte do valor real, e n√£o possuem necessariamente valor ele mesmo. Em Ymir "o valor objetivo real" √© a unidade de "Riqueza", representada pelo dinheiro na unidade de "Moedas".
+Se a soma da riqueza total de uma regi√£o fosse uma torta, cada moeda daria a um Porco o direito de um pedado da comida. O tamanho do peda√ßo dependeria de quantas moedas est√£o circulando (a soma de toda a renda da regi√£o).
+A soma de toda a renda de uma regi√£o representa o total de moedas circulando e, com isso, o valor objetivo (riqueza) que cada moeda representa.
+Em Ymir, para simplificar e evitar a complica√ß√£o de moedas correntes relativas, a quantidade de moedas em circula√ß√£o √© automaticamente a soma de todas as rendas. Assim, o valor pr√≥prio (Riqueza) de cada moeda tamb√©m flutua autmaticamente, ao sabor da quantidade total de receitas.
+Voc√™ pode acessar os recursos de locais de estocagem sem trabalhadores, mas os locais n√£o poder√£o receber nenhum novo recurso.
+Qualquer recurso distribuido e disponibilizado para a popula√ß√£o (seja pelos mercadores, produtores ou outros) s√£o perdidos, sendo vendidos ou n√£o.
+O pre√ßo de um recurso ser√° sempre, no m√≠nimo, uma moeda acima de seu custo de produ√ß√£o, para garantir um lucro m√≠nimo para seus produtores.
+Se uma industria produz algo muito valorizado, os produtores dos materiais de base ir√£o cobi√ßar a receita de tal ind√∫stria e aumentar o pre√ßo de seus insumos.
+Cada projeto possui um n√∫mero otimizado de pesquisadores. Al√©m desse n√∫mero, qualquer pesquisador extra ir√° adicionar uma reduzida contribui√ß√£o para o projeto.
+Em um projeto, cada pesquisador contribui "pontos de pesquisa" baseados em suas respectivas intelig√™ncias.
 Tome cuidado: atribuir pesquisadores para um projeto reduz a produtividade de todos os locais de trabalhos que empregam a classe social nomeada.
-VocÍ n„o pode controlar diretamente quando e quais ideias seu povo ir· ter. Cada ideia possui condiÁıes e gatilhos secretos.
-Na aba de construÁıes, vocÍ escolher construir a vers„o obsoleta de um prÈdio cliclando com o bot„o direito no Ìcone da construÁ„o.
+Voc√™ n√£o pode controlar diretamente quando e quais ideias seu povo ir√° ter. Cada ideia possui condi√ß√µes e gatilhos secretos.
+Na aba de constru√ß√µes, voc√™ escolher construir a vers√£o obsoleta de um pr√©dio cliclando com o bot√£o direito no √≠cone da constru√ß√£o.
